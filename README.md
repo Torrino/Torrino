@@ -1,5 +1,5 @@
 ### Torrino <img src="https://yt3.ggpht.com/a/AATXAJwMlwIB38NnXePw3_35RyuKOO_jtt2zOY5mCw=s900-c-k-c0xffffffff-no-rj-mo" width="25px">
-[![Website](https://medievaldiscordrp.com](https://medievaldiscordrp.com)
+[![Website](https://medievaldiscordrp.com])(https://medievaldiscordrp.com)
 
 ## Your short description
 - 🔭 I’m currently working on - Medieval Discord - Project: VEA
@@ -16,10 +16,6 @@
 [<img align="left" alt="twitter.com/mcqueenprod | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
-<!-- Optional if you have blogs -->
-## Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
 [website]: medievaldiscordrp.com
