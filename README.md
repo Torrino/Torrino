@@ -1,5 +1,5 @@
 ### Torrino <img src="https://yt3.ggpht.com/a/AATXAJwMlwIB38NnXePw3_35RyuKOO_jtt2zOY5mCw=s900-c-k-c0xffffffff-no-rj-mo" width="50px">
-[![Website](https://medievaldiscordrp.com)](medievaldiscordrp.com)
+[![website](https://medievaldiscordrp.com)](medievaldiscordrp.com)
 
 ## Description
 - 🔭 I’m currently working on - Medieval Discord - Project: VEA
