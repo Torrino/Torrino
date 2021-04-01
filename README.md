@@ -4,7 +4,6 @@
 ## Description
 - 🔭 I’m currently working on - Medieval Discord - Project: VEA
 - 🌱 I’m currently learning - Typescript, Prisma2, Sequelize, Node.js, Discord.js
-- 💬 Ask me about - ❔❔❔❔
 - 🥅 20~~20~~ **21** Goal - Actually Release **VEA**
 
 [![Torrino's github stats](https://github-readme-stats.vercel.app/api?username=Torrino&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
