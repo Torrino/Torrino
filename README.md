@@ -1,5 +1,5 @@
 ### Torrino <img src="https://yt3.ggpht.com/a/AATXAJwMlwIB38NnXePw3_35RyuKOO_jtt2zOY5mCw=s900-c-k-c0xffffffff-no-rj-mo" width="50px">
-[![website](https://medievaldiscordrp.com)](medievaldiscordrp.com)
+[![Website](https://medievaldiscordrp.com)](medievaldiscordrp.com)
 
 ## Description
 - 🔭 I’m currently working on - Medieval Discord - Project: VEA
@@ -7,7 +7,7 @@
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 20~~20~~ **21** Goal - Actually Release **VEA**
 
-[!Torrino's github stats](https://github-readme-stats.vercel.app/api?username=Torrino&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Torrino's github stats](https://github-readme-stats.vercel.app/api?username=Torrino&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 ## Connect with me:
 [<img align="left" alt="medievaldiscordrp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
