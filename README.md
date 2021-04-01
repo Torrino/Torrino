@@ -1,5 +1,5 @@
-### Torrino <img src="https://yt3.ggpht.com/a/AATXAJwMlwIB38NnXePw3_35RyuKOO_jtt2zOY5mCw=s900-c-k-c0xffffffff-no-rj-mo" width="50px">
-[Medieval Discord](https://medievaldiscordrp.com)
+### Hey, I'm Torrino 👋
+<img src="https://cdn.discordapp.com/icons/318085957540642826/a_a4357f03d521147f1986318c06de9336.png?size=512" width="50px">[Medieval Discord](https://medievaldiscordrp.com "Medieval RPG in a Discord server.)
 
 ## Description
 - 🔭 I’m currently working on - Medieval Discord - Project: VEA
