@@ -16,5 +16,5 @@
 
 
 <!-- This section you create this variables that are used above -->
-[website]: medievaldiscordrp.com
+[website]: https://medievaldiscordrp.com
 [twitter]: https://twitter.com/mcqueenprod
