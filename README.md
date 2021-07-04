@@ -1,9 +1,6 @@
-### Hey, I'm Torrino 👋
+### Welcome!
 
-## Description
-- 🔭 I’m currently working on - Medieval Discord - Project: VEA
-- 🌱 I’m currently learning - Typescript, Prisma2, Sequelize, Node.js, Discord.js
-- 🥅 20~~20~~ **21** Goal - Actually Release **VEA**
+## Currently working on Project: VEA
 
 [![Torrino's github stats](https://github-readme-stats.vercel.app/api?username=Torrino&count_private=true&include_all_commits=true&theme=radical)]
 
