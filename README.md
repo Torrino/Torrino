@@ -2,8 +2,6 @@
 
 ## Currently working on Project: VEA
 
-[![Torrino's github stats](https://github-readme-stats.vercel.app/api?username=Torrino&count_private=true&include_all_commits=true&theme=radical)]
-
 <img src="https://cdn.discordapp.com/icons/318085957540642826/a_a4357f03d521147f1986318c06de9336.png?size=512" width="50px">  **[Medieval Discord](https://medievaldiscordrp.com "Medieval RPG in a Discord server.")**
 
 ## Connect with me:
